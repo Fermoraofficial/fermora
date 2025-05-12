@@ -1,1 +1,1 @@
-export default function Home() { return <div>FERMORA® Ana Sayfa</div> }
+export default function Home() { return <div>FERMORA®</div>; }

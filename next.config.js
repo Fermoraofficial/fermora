@@ -1,1 +1,1 @@
-module.exports = { reactStrictMode: true, i18n: { locales: ["tr", "en", "de", "fr", "es", "pt", "it", "ru"], defaultLocale: "tr" } }
+module.exports = { reactStrictMode: true, i18n: { locales: ['tr', 'en'], defaultLocale: 'tr' } };

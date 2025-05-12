@@ -1,1 +1,1 @@
-# FERMORA® - Zarafetin Dijital Yüzü
+# FERMORA® Web Projesi
